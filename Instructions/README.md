@@ -1,1 +1,1 @@
-Add the assignment instructions and any provided materials in this folder
+Refer to **Course 2 Unit 2 Project 2 Shipbuilding 101 Instructions** for the instructions for this project
